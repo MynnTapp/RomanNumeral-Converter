@@ -1,0 +1,47 @@
+body {
+  background-image: url(https://thumbs.dreamstime.com/b/citizens-ancient-rome-traditional-costumes-set-legionary-roman-woman-plebeian-emperor-flat-vector-illustration-historical-239727650.jpg);
+}
+
+h1 {
+  text-align: center;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+#number {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 10vh;
+  margin-left: 350px;
+  margin-top: 120px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 25px;
+}
+
+h2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-right: 100px;
+}
+
+#convert-btn {
+  margin-left: 330px;
+  width: 300px;
+  height: 70px;
+  font-size: 30px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background-color: burlywood;
+  border-color: black;
+  border-style: groove;
+  cursor: pointer;
+}
+
+#output {
+  text-align: center;
+  font-size: 30px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin-right: 80px;
+  font-weight: 600;
+}
